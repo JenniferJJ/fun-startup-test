@@ -1,2 +1,2 @@
 # fun-startup-test
-https://github.com/JenniferJJ/fun-startup-test.git
+https://jenniferjj.github.io/fun-startup-test/
